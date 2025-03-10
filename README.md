@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aljo-Jaison
-- 👀 I’m interested in ...gaming
+- 👀 I’m interested in ...Gaming, Graphic Designing, 3D animations, Game development. 
 - 🌱 I’m currently learning ...the possibilities of using human neural networks in sync with gameplay
-- 💞️ I’m looking to collaborate on ...game creation
+- 💞️ I’m looking to collaborate on ...game creation, graphic designing.
 - 📫 How to reach me ...aljojaisonk1@gmail.com
 
 <!---
